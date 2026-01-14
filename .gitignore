@@ -1,4 +1,13 @@
-emails/
-email_generator.py
-email_generator_nojson.py
-ollama_test.py
+# emails/
+# email_generator.py
+# email_generator_nojson.py
+# ollama_test.py
+
+*
+!.gitignore
+!*/
+!*/.py 
+!*.py
+!*.ipynb 
+.venv
+/venv
