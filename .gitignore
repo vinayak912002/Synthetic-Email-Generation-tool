@@ -6,8 +6,15 @@
 *
 !.gitignore
 !*/
+<<<<<<< HEAD
 !*/.py 
 !*.py
 !*.ipynb 
 .venv
 /venv
+=======
+!*/.py
+!*.ipynb 
+.venv
+/venv
+>>>>>>> e0aeb1bfb9b110d4c2569b39b946283fb6f3dfa2
